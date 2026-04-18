@@ -1,0 +1,72 @@
+{
+  "groups": [
+    {
+      "group_id": "kunshi",
+      "label": "君氏",
+      "color": "#9932CC",
+      "display_order": 1
+    },
+    {
+      "group_id": "kosuhi",
+      "label": "講師",
+      "color": "#4169E1",
+      "display_order": 2
+    },
+    {
+      "group_id": "mozi",
+      "label": "もじる",
+      "color": "#20B2AA",
+      "display_order": 3
+    },
+    {
+      "group_id": "riisa",
+      "label": "りいさ",
+      "color": "#FFE4E1",
+      "display_order": 4
+    },
+    {
+      "group_id": "nakeru",
+      "label": "泣けるウマ娘",
+      "color": "#87CEFA",
+      "display_order": 5
+    }
+  ],
+  "characters": [
+    {
+      "id": "Matikane_tannhauser",
+      "name": "マチカネタンホイザ",
+      "image": "matikanetannhauser_icon.png",
+      "description": "",
+      "shoe_size": 24.5,
+      "three_sizes": "B80/W55/H80",
+      "display_order": 1,
+      "groups": [
+        "riisa"
+      ]
+    },
+    {
+      "id": "Tokai_teio",
+      "name": "トウカイテイオー",
+      "image": "tokaiteio_icon.png",
+      "description": "",
+      "shoe_size": 22,
+      "three_sizes": "B77/W54/H76",
+      "display_order": 2,
+      "groups": [
+        "riisa"
+      ]
+    },
+    {
+      "id": "Rice_Shower",
+      "name": "ライスシャワー",
+      "image": "riceshower_icon.png",
+      "description": "",
+      "shoe_size": 21,
+      "three_sizes": "B75/W51/H76",
+      "display_order": 3,
+      "groups": [
+        "kunshi"
+      ]
+    }
+  ]
+}
