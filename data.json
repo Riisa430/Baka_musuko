@@ -29,6 +29,12 @@
       "label": "泣けるウマ娘",
       "color": "#87CEFA",
       "display_order": 5
+    },
+    {
+      "group_id": "iida",
+      "label": "飯田",
+      "color": "#CCFF99",
+      "display_order": 6
     }
   ],
   "characters": [
@@ -65,7 +71,215 @@
       "three_sizes": "B75/W51/H76",
       "display_order": 3,
       "groups": [
+        "kunshi",
+        "nakeru"
+      ]
+    },
+    {
+      "id": "Mejiro_McQueen",
+      "name": "メジロマックイーン",
+      "image": "mejiromcqueen_icon.png",
+      "description": "",
+      "shoe_size": 22.5,
+      "three_sizes": "B71/W54/H76",
+      "display_order": 4,
+      "groups": [
+        "mozi"
+      ]
+    },
+    {
+      "id": "Daiwa_scarlet",
+      "name": "ダイワスカーレット",
+      "image": "daiwascarlet_icon.png",
+      "description": "",
+      "shoe_size": 24.5,
+      "three_sizes": "B90/W56/H82",
+      "display_order": 5,
+      "groups": [
+        "iida"
+      ]
+    },
+    {
+      "id": "Grass_wonder",
+      "name": "グラスワンダー",
+      "image": "grasswonder_icon.png",
+      "description": "",
+      "shoe_size": 23,
+      "three_sizes": "B77/W53/H84",
+      "display_order": 6,
+      "groups": [
+        "riisa"
+      ]
+    },
+    {
+      "id": "Mayano_topgun",
+      "name": "マヤノトップガン",
+      "image": "mayanotopgun_icon.png",
+      "description": "",
+      "shoe_size": 20.5,
+      "three_sizes": "B76/W51/H73",
+      "display_order": 7,
+      "groups": [
+        "riisa",
+        "nakeru"
+      ]
+    },
+    {
+      "id": "Manhattan_cafe",
+      "name": "マンハッタンカフェ",
+      "image": "manhattancafe_icon.png",
+      "description": "",
+      "shoe_size": 22.5,
+      "three_sizes": "B73/W54/H78",
+      "display_order": 8,
+      "groups": [
+        "koushi"
+      ]
+    },
+    {
+      "id": "Mihono_Bourbon",
+      "name": "ミホノブルボン",
+      "image": "mihonobourbon_icon.png",
+      "description": "",
+      "shoe_size": 24,
+      "three_sizes": "B86/W54/H87",
+      "display_order": 9,
+      "groups": [
+        "iida"
+      ]
+    },
+    {
+      "id": "Super_Creek",
+      "name": "スーパークリーク",
+      "image": "supercreek_icon.png",
+      "description": "",
+      "shoe_size": 25.5,
+      "three_sizes": "B97/W61/H91",
+      "display_order": 10,
+      "groups": [
+        "mozi",
+        "nakeru"
+      ]
+    },
+    {
+      "id": "Mejiro_Dober",
+      "name": "メジロドーベル",
+      "image": "mejirodober_icon.png",
+      "description": "",
+      "shoe_size": 22,
+      "three_sizes": "B83/W57/H81",
+      "display_order": 11,
+      "groups": [
+        "mozi"
+      ]
+    },
+    {
+      "id": "Satono_Diamond",
+      "name": "サトノダイヤモンド",
+      "image": "satonodiamond_icon.png",
+      "description": "",
+      "shoe_size": 21,
+      "three_sizes": "B87/W54/H84",
+      "display_order": 12,
+      "groups": [
+        "mozi"
+      ]
+    },
+    {
+      "id": "Kitasan_Black",
+      "name": "キタサンブラック",
+      "image": "kitasanblack_icon.png",
+      "description": "",
+      "shoe_size": 23,
+      "three_sizes": "B85/W56/H88",
+      "display_order": 13,
+      "groups": [
+        "koushi"
+      ]
+    },
+    {
+      "id": "Sakura_Chiyono_O",
+      "name": "サクラチヨノオー",
+      "image": "sakurachiyonoo_icon.png",
+      "description": "",
+      "shoe_size": 22,
+      "three_sizes": "B80/W55/H83",
+      "display_order": 14,
+      "groups": [
+        "riisa"
+      ]
+    },
+    {
+      "id": "Mejiro_Bright",
+      "name": "メジロブライト",
+      "image": "mejirobright_icon.png",
+      "description": "",
+      "shoe_size": 23,
+      "three_sizes": "B84/W59/H81",
+      "display_order": 15,
+      "groups": [
+        "riisa"
+      ]
+    },
+    {
+      "id": "Daiichi Ruby",
+      "name": "ダイイチルビー",
+      "image": "daiichiruby_icon.png",
+      "description": "",
+      "shoe_size": 18.5,
+      "three_sizes": "B77/W53/H76",
+      "display_order": 16,
+      "groups": [
+        "riisa"
+      ]
+    },
+    {
+      "id": "Satono_Crown",
+      "name": "サトノクラウン",
+      "image": "satonocrown_icon.png",
+      "description": "",
+      "shoe_size": 24,
+      "three_sizes": "B82/W53/H81",
+      "display_order": 17,
+      "groups": [
         "kunshi"
+      ]
+    },
+    {
+      "id": "Cheval_Grand",
+      "name": "シュヴァルグラン",
+      "image": "chevalgrand_icon.png",
+      "description": "",
+      "shoe_size": 24,
+      "three_sizes": "B85/W56/H80",
+      "display_order": 18,
+      "groups": [
+        "mozi"
+      ]
+    },
+    {
+      "id": "Vivlos",
+      "name": "ヴィブロス",
+      "image": "vivlos_icon.png",
+      "description": "",
+      "shoe_size": 22,
+      "three_sizes": "B81/W51/H86",
+      "display_order": 19,
+      "groups": [
+        "riisa"
+      ]
+    },
+    {
+      "id": "Chrono_Genesis",
+      "name": "クロノジェネシス",
+      "image": "chronogenesis_icon.png",
+      "description": "",
+      "shoe_size": 22,
+      "three_sizes": "B77/W54/H76",
+      "display_order": 20,
+      "groups": [
+        "riisa",
+        "nakeru"
       ]
     }
   ]
